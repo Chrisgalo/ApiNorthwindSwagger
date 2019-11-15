@@ -1,0 +1,20 @@
+c:\Users\HOME\documents\visual studio 2017\Projects\MiWebApi\ConectarDatos\bin\Debug\ConectarDatos.dll.config
+c:\Users\HOME\documents\visual studio 2017\Projects\MiWebApi\ConectarDatos\bin\Debug\ConectarDatos.dll
+c:\Users\HOME\documents\visual studio 2017\Projects\MiWebApi\ConectarDatos\bin\Debug\ConectarDatos.pdb
+c:\Users\HOME\documents\visual studio 2017\Projects\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.dll
+c:\Users\HOME\documents\visual studio 2017\Projects\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\HOME\documents\visual studio 2017\Projects\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.xml
+c:\Users\HOME\documents\visual studio 2017\Projects\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\HOME\documents\visual studio 2017\Projects\MiWebApi\ConectarDatos\obj\Debug\ConectarDatos.csprojResolveAssemblyReference.cache
+c:\Users\HOME\documents\visual studio 2017\Projects\MiWebApi\ConectarDatos\obj\Debug\ConectarDatos.dll
+c:\Users\HOME\documents\visual studio 2017\Projects\MiWebApi\ConectarDatos\obj\Debug\ConectarDatos.pdb
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Debug\ConectarDatos.dll.config
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Debug\ConectarDatos.dll
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Debug\ConectarDatos.pdb
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.dll
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.xml
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\obj\Debug\ConectarDatos.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\obj\Debug\ConectarDatos.dll
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\obj\Debug\ConectarDatos.pdb

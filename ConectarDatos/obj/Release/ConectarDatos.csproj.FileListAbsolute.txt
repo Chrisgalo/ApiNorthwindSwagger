@@ -1,0 +1,10 @@
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Release\ConectarDatos.dll.config
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Release\ConectarDatos.dll
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Release\ConectarDatos.pdb
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Release\EntityFramework.dll
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Release\EntityFramework.xml
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\obj\Release\ConectarDatos.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\obj\Release\ConectarDatos.dll
+C:\Users\HOME\Downloads\MiWebApi\ConectarDatos\obj\Release\ConectarDatos.pdb

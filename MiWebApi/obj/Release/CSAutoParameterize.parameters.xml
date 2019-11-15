@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="NorthwindEntities-Web.config Connection String" description="NorthwindEntities Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="metadata=res://*/UsuariosDatosModel.csdl|res://*/UsuariosDatosModel.ssdl|res://*/UsuariosDatosModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=tcp:csharpswagger.database.windows.net,1433;initial catalog=Northwind;user id=administrador;password=4dmon+BD;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\HOME\\Downloads\\MiWebApi\\MiWebApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NorthwindEntities']/@connectionString" />
+  </parameter>
+</parameters>
